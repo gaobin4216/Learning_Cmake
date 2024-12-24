@@ -119,7 +119,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/msys64/mingw64/bin/cmake.exe"
+			"value" : "C:/Software/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -131,7 +131,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/msys64/mingw64/bin/cpack.exe"
+			"value" : "C:/Software/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -143,7 +143,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/msys64/mingw64/bin/ctest.exe"
+			"value" : "C:/Software/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/gcc.exe"
 		},
 		{
@@ -448,6 +448,18 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/dlltool.exe"
+		},
+		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Software/CMake/bin/cmake-gui.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -1091,7 +1103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/msys64/mingw64/share/cmake"
+			"value" : "C:/Software/CMake/share/cmake-3.31"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
