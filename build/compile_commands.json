@@ -1,8 +1,8 @@
 [
 {
   "directory": "D:/Learning_repository/Learning_Cmake/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\TEST.dir\\src\\main.cpp.obj -c D:\\Learning_repository\\Learning_Cmake\\src\\main.cpp",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/OpenCVExample.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OpenCVExample.dir\\src\\main.cpp.obj -c D:\\Learning_repository\\Learning_Cmake\\src\\main.cpp",
   "file": "D:/Learning_repository/Learning_Cmake/src/main.cpp",
-  "output": "CMakeFiles/TEST.dir/src/main.cpp.obj"
+  "output": "CMakeFiles/OpenCVExample.dir/src/main.cpp.obj"
 }
 ]

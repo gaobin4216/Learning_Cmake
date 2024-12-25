@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Learning_repository/Learning_Cmake/src/main.cpp" "CMakeFiles/TEST.dir/src/main.cpp.obj" "gcc" "CMakeFiles/TEST.dir/src/main.cpp.obj.d"
+  "D:/Learning_repository/Learning_Cmake/src/main.cpp" "CMakeFiles/OpenCVExample.dir/src/main.cpp.obj" "gcc" "CMakeFiles/OpenCVExample.dir/src/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
